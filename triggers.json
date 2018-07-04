@@ -1,0 +1,8 @@
+{
+    "triggers": {
+        "@dotnet-bot test arcade please": {
+            "uri": "https://dotnet.visualstudio.com/public",
+            "id": "17"
+        }
+    }
+}
