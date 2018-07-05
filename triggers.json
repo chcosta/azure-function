@@ -1,7 +1,7 @@
 {
     "triggers": {
         "@dotnet-bot test arcade please": {
-            "projectCollectionUrl": "https://dotnet.visualstudio.com",
+            "projectCollection": "dotnet",
             "project": "public",
             "definitionId": "17"
         }
